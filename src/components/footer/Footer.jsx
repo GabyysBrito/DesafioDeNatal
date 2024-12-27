@@ -24,7 +24,7 @@ export default function Footer(){
                     <p>Layout criado para fins natalistícos na escola vai na web</p>
                 </section>
 
-                <section className={s.Presentes}>
+                <section className={s.presentes}>
                     <img src={imagensPresentes} alt="Uma imagem mostrando 4 presentes" />
                 </section>
 

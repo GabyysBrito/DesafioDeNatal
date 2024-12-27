@@ -43,3 +43,20 @@ header{
         }
     }
 }
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+
+        .secaoLogo{
+            width: 100%;
+            height: 20vh;
+        }
+
+        .secaoNav{
+            width: 100%;
+            height: 8vh;
+            border-bottom: solid #bb2a17;
+        }
+    }
+}

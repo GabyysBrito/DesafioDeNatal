@@ -32,10 +32,48 @@ footer {
     }
 }
 
-.Presentes {
+.presentes {
     height: 25vh;
     
     img {
         height: 23vh;
+    }
+}
+
+@media (max-width: 768px) {
+
+    footer{
+        flex-direction: row;
+        height: 30vh;
+    }
+
+    .secaoNav{
+        width: 100%;
+
+        ul{
+            flex-direction: column;
+            height: 30vh;
+        }
+    }
+
+    .DireitosAutorais{
+        width: 100%;
+        height: 15vh;
+        
+        p{
+            border: none;
+            font-size: 14px;
+            height: 4vh;
+            
+        }
+    }
+
+    .presentes {
+        width: 35%;
+        height: 23vh;
+
+        img {
+            height: 23vh;
+        }
     }
 }
