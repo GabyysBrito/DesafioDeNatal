@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8B1414;
+    background-image: url('../../assets/estrelaNeve.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.secaoLogo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 25%;
+
+    h1{
+        font-size: 35px;
+        font-family: 'Great Vibes', serif;
+        font-weight: 400;
+        font-style: normal;
+        color: #E4EEF1;
+    }
+}
+
+.secaoNav {
+    width: 40%;
+
+    ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        li{
+            font-size: 35px;
+            font-family: 'Great Vibes', serif;
+            font-weight: 400;
+            font-style: normal;
+
+            a {
+                color: #E4EEF1;
+            }
+        }
+    }
+}
