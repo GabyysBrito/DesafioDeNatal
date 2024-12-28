@@ -28,7 +28,7 @@ export default function Footer(){
                     <img src={imagensPresentes} alt="Uma imagem mostrando 4 presentes" />
                 </section>
 
-            </footer>
+            </footer> 
         </section>
     )
 }

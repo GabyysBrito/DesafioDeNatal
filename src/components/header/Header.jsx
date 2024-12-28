@@ -7,7 +7,7 @@ export default function Header(){
             
             <header>
 
-                <section className={s.secaoLogo}>
+            <section className={s.secaoLogo}>
                     <img src={logoArvoreNatal} alt="Uma logo de uma árvore de natal" />
                     <h1>Feliz Natal!!!!</h1>
                 </section>

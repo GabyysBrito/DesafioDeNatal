@@ -50,13 +50,19 @@ header{
 
         .secaoLogo{
             width: 100%;
-            height: 20vh;
+            height: 15vh;
         }
-
+        
         .secaoNav{
             width: 100%;
-            height: 8vh;
+            height: 6vh;
+            border-top: solid #bb2a17;
             border-bottom: solid #bb2a17;
+            
+            ul {
+                height: 6vh;
+
+            }
         }
     }
 }
