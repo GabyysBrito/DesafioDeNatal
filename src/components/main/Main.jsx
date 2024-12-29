@@ -15,9 +15,9 @@ export default function Main(){
                 </section>
 
                 <section className={s.secaoOrigem}>
-                        <img src={globoDeNeve} alt="Imagem de um globo de neve dentro do globo tem uma árvore de natal" />
-                        
-                        <p>A origem do globo de neve é incerta, mas acredita-se que tenha surgido na Europa no século XIX, tornando-se um símbolo de magia, afeto e encantamento, especialmente no Natal, trazendo um toque de nostalgia e maravilha para as celebrações e encantando gerações ao redor do mundo.</p>
+                    <img src={globoDeNeve} alt="Imagem de um globo de neve dentro do globo tem uma árvore de natal" />
+                    
+                    <p>A origem do globo de neve é incerta, mas acredita-se que tenha surgido na Europa no século XIX, tornando-se um símbolo de magia, afeto e encantamento, especialmente no Natal, trazendo um toque de nostalgia e maravilha para as celebrações e encantando gerações ao redor do mundo.</p>
                 </section>
 
                 <section className={s.secaoImagens}>

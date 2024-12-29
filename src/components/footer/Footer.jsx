@@ -21,7 +21,7 @@ export default function Footer(){
                     <p>Gabrielle Oliveira</p>
                     <p>Fernanda Corrêa</p>
                     <p>João Pedro Belo</p>
-                    <p>Layout criado para fins natalistícos na escola vai na web</p>
+                    <p className={s.fonte}>Layout criado para fins natalistícos na escola vai na web</p>
                 </section>
 
                 <section className={s.presentes}>
